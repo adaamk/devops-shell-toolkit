@@ -61,7 +61,7 @@ sudo apt update && sudo apt install -y coreutils findutils procps
 
 ## 🖼️ Screenshots
 ### 🔄 Backup Script
-![backup](docs/screenshots/backup.png)
+![backup](docs/screenshots/BackUp.png)
 
 ### 🧹 Log Cleaner
 ![log_cleaner](docs/screenshots/log_cleaner.png)
@@ -76,7 +76,7 @@ sudo apt update && sudo apt install -y coreutils findutils procps
 ![system_health](docs/screenshots/system_health.png)
 
 ### 👤 User Creator
-![user_creator](docs/screenshots/user_creator.png)
+![user_creator](docs/screenshots/User_creator.png)
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
